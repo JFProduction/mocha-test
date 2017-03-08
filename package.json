@@ -1,5 +1,5 @@
 {
-  "name": "starwars",
+  "name": "mocha_tests",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,6 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0",
-    "request": "^2.80.0",
-    "should": "^11.2.0"
+    "request": "^2.80.0"
   }
 }
