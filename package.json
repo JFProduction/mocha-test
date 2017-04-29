@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test/test $i >> output.txt",
-    "start": "mocha test/argTest $i"
+    "start": "mocha test/argTest 1"
   },
   "author": "",
   "license": "ISC",
