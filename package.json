@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/test"
+    "test": "mocha test/test $i >> output.txt",
+    "start": "mocha test/argTest $i"
   },
   "author": "",
   "license": "ISC",
